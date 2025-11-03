@@ -117,9 +117,9 @@ sudo systemctl restart dhcpcd
 sudo systemctl status dhcpcd
 ```
 
-## AP 설정
+---
 
-### AP는 hostapd를 설정
+## AP 구성을 위한 hostapd 설정
 
 ```
 mkdir -p /etc/hostapd
